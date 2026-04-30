@@ -1,0 +1,15 @@
+{
+    "enemies": {
+        "enemy_data":{}
+    },
+    "player": {"x": "None"},
+    "time": {
+        "logs": [],
+        "activity": []
+    },
+    "status": {
+        "id": null,
+        "gen": null,
+        "grant": false
+    }
+}
